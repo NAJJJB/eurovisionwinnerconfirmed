@@ -1,0 +1,6 @@
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\bin\Debug\eurovision_winner.exe
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\bin\Debug\eurovision_winner.pdb
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\obj\Debug\eurovision winner.csproj.AssemblyReference.cache
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\obj\Debug\eurovision winner.csproj.CoreCompileInputs.cache
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\obj\Debug\eurovision_winner.exe
+C:\Users\Neo\RiderProjects\eurovision winner\eurovision winner\obj\Debug\eurovision_winner.pdb
